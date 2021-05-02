@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @esya4me
 - 👀 I’m interested in:
                         Machine Learning on Python
+                                &&
                         Java Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
